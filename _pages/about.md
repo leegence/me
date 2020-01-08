@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student from [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/). I am working in the [NetBot Laboratory](http://telerobot.cs.tamu.edu/) and my advisor is Dr. [Dezhen Song](http://faculty.cs.tamu.edu/dzsong/). Previously, I completed my bachelor's degree at [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2012. Here is my [resume](https://drive.google.com/file/d/15nmx0AYEzyDuG-Eg7kDtm7bIGg2_xdhA/view?usp=sharing).
+I am a fifth-year PhD student from [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/). I am working in the [NetBot Laboratory](http://telerobot.cs.tamu.edu/) and my advisor is Dr. [Dezhen Song](http://faculty.cs.tamu.edu/dzsong/). Previously, I completed my bachelor's degree at [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2012.<!--- Here is my [resume](https://drive.google.com/file/d/15nmx0AYEzyDuG-Eg7kDtm7bIGg2_xdhA/view?usp=sharing).-->
 
 My research interests are stochastic modeling, sensor fusion, localization, mapping, SLAM for autonomous driving, robotics, and augmented/virtual reality. 
 

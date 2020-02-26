@@ -15,7 +15,7 @@ Journal Papers
 
 Selected Conference Papers
 -----
-* **Binbin Li**, Dezhen Song, Aaron Kingery, Dongfang Zheng,  Yiliang Xu, and Huiwen Guo , "Lane Marking Verification for High Definition Map Maintenance Using Crowdsourced Images", IEEE International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, October 25-29, 2020. 
+* **Binbin Li**, Dezhen Song, Aaron Kingery, Dongfang Zheng, Yiliang Xu, and Huiwen Guo , "Lane Marking Verification for High Definition Map Maintenance Using Crowdsourced Images", IEEE International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, October 25-29, 2020 (Submitted). 
 * **Binbin Li**, Dezhen Song, Ankit Ramchandani, Hsin-Min Cheng, and Di Wang, "Virtual Lane Boundary Generation for Human-Compatible Autonomous Driving: A Tight Coupling between Perception and Planning", IEEE International Conference on Intelligent Robots and Systems (IROS), Macau, China, November 3-8, 2019.  
 * **Binbin Li**, Dezhen Song, Haifeng Li, Adam Pike, and Paul Carlson, "Lane Marking Quality Assessment for Autonomous Driving'', IEEE International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain, October 1-5, 2018.
 * Haifeng Li, Chieh Chou, Longfei Fan, **Binbin Li**, Di Wang, Dezhen Song, "Robotic Subsurface Pipeline Mapping with a Ground-penetrating Radar and a Camera'', IEEE International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain, October 1-5, 2018. 
